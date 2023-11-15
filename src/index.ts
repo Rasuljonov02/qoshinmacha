@@ -1,14 +1,10 @@
 import "./mashina";
 import "./tel";
 
-
-
-
-
-class Water {
-	constructor(public name: string) {}
-	H2O() {}
-}
+// class Water {
+// 	constructor(public name: string) {}
+// 	H2O() {}
+// }
 
 // class Energetic extends Water {
 // 	energy() {}
@@ -53,6 +49,5 @@ class Water {
 // barmen("", new Cola("Cola")); // Cola -> Gazli -> Water
 // barmen("", new Apple("Apple")); // Apple -> Fruit -> Water
 // barmen("", new Banana("Banana")); // Banana -> Fruit -> Water
-
 
 // barmen('Kent', ); // Infer
